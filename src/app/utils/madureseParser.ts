@@ -208,7 +208,7 @@ export function getExampleSentences(): {
 }[] {
   return [
     {
-      sentence: "sengko makan nase",
+      sentence: "sengko ngakan nase",
       isValid: true,
       structure: "S - P - O",
       meaning: "Saya makan nasi",
